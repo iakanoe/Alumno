@@ -106,10 +106,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EWBFROWY
 
-[GeneratedDocument1]
-DocumentPath=Project Outputs for Discipulo\Design Rule Check - PCB.html
-DItemRevisionGUID=
-
 [Configuration1]
 Name=Default Configuration
 ParameterCount=0
